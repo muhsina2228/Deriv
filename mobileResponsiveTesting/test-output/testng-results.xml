@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-19T14:12:12 GST" name="Default suite" finished-at="2024-09-19T14:13:17 GST" duration-ms="65023">
+    <groups>
+    </groups>
+    <test started-at="2024-09-19T14:12:12 GST" name="Default test" finished-at="2024-09-19T14:13:17 GST" duration-ms="65023">
+      <class name="derivResponsiveTesting.ResponsiveTest">
+        <test-method is-config="true" signature="beforeSuiteStart()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:12 GST" name="beforeSuiteStart" finished-at="2024-09-19T14:12:12 GST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteStart -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:12 GST" name="beforeEachTest" finished-at="2024-09-19T14:12:12 GST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:12 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:12:20 GST" duration-ms="8313" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone SE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:20 GST" name="afterEachTest" finished-at="2024-09-19T14:12:21 GST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:21 GST" name="beforeEachTest" finished-at="2024-09-19T14:12:21 GST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:21 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:12:29 GST" duration-ms="8153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone 14 Pro Max]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:29 GST" name="afterEachTest" finished-at="2024-09-19T14:12:29 GST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:29 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:12:37 GST" duration-ms="7929" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone 12 Pro]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:29 GST" name="beforeEachTest" finished-at="2024-09-19T14:12:29 GST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:37 GST" name="afterEachTest" finished-at="2024-09-19T14:12:37 GST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:37 GST" name="beforeEachTest" finished-at="2024-09-19T14:12:37 GST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:37 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:12:45 GST" duration-ms="8038" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pixel 7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:45 GST" name="afterEachTest" finished-at="2024-09-19T14:12:45 GST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:45 GST" name="beforeEachTest" finished-at="2024-09-19T14:12:45 GST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:45 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:12:53 GST" duration-ms="8514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPad Mini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:53 GST" name="afterEachTest" finished-at="2024-09-19T14:12:54 GST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:54 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:13:02 GST" duration-ms="7992" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Asus Zenbook Fold]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:12:54 GST" name="beforeEachTest" finished-at="2024-09-19T14:12:54 GST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:13:02 GST" name="afterEachTest" finished-at="2024-09-19T14:13:02 GST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:13:02 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:13:09 GST" duration-ms="7662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A51/71]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:13:02 GST" name="beforeEachTest" finished-at="2024-09-19T14:13:02 GST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:13:09 GST" name="afterEachTest" finished-at="2024-09-19T14:13:09 GST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="validateResponsive(java.lang.String)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:13:09 GST" name="validateResponsive" data-provider="mobileEmulations" finished-at="2024-09-19T14:13:17 GST" duration-ms="7259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy S8+]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponsive -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:13:09 GST" name="beforeEachTest" finished-at="2024-09-19T14:13:09 GST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void derivResponsiveTesting.ResponsiveTest.validateResponsive(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:derivResponsiveTesting.ResponsiveTest@1e6a3214]" started-at="2024-09-19T14:13:17 GST" name="afterEachTest" finished-at="2024-09-19T14:13:17 GST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+      </class> <!-- derivResponsiveTesting.ResponsiveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
